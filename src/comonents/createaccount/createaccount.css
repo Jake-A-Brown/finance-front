@@ -1,0 +1,15 @@
+.create-account-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.create-account-form{
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    width: 100%;
+}
